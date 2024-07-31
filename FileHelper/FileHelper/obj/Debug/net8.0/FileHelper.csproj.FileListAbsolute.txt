@@ -1,0 +1,15 @@
+E:\Code\Study\Test\FileHelper\FileHelper\bin\Debug\net8.0\FileHelper.exe
+E:\Code\Study\Test\FileHelper\FileHelper\bin\Debug\net8.0\FileHelper.deps.json
+E:\Code\Study\Test\FileHelper\FileHelper\bin\Debug\net8.0\FileHelper.runtimeconfig.json
+E:\Code\Study\Test\FileHelper\FileHelper\bin\Debug\net8.0\FileHelper.dll
+E:\Code\Study\Test\FileHelper\FileHelper\bin\Debug\net8.0\FileHelper.pdb
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\FileHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\FileHelper.AssemblyInfoInputs.cache
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\FileHelper.AssemblyInfo.cs
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\FileHelper.csproj.CoreCompileInputs.cache
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\FileHelper.sourcelink.json
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\FileHelper.dll
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\refint\FileHelper.dll
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\FileHelper.pdb
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\FileHelper.genruntimeconfig.cache
+E:\Code\Study\Test\FileHelper\FileHelper\obj\Debug\net8.0\ref\FileHelper.dll
