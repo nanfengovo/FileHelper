@@ -1,0 +1,2 @@
+# FileHelper
+使用edge浏览器下载B站视频的时候文件格式后缀为.crdownload
